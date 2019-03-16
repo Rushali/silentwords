@@ -10,6 +10,6 @@ This project was showcased at the Alliance of women in media arts and technology
 
 ## Systems Diagram
 
-![System Diagram for Silent Words](https://github.com/rushali/silentwords/master/SystemDiagram_SilentWords.png "System Diagram for Silent Words")
+![System Diagram for Silent Words](https://github.com/Rushali/silentwords/blob/master/SystemDiagram_SilentWords.png "System Diagram for Silent Words")
 
-## Setup & Installation 
+## Setup & Installation
